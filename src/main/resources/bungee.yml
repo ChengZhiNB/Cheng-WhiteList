@@ -1,0 +1,4 @@
+name: Cheng-Whitelist-BungeeCore
+version: '${project.version}'
+main: cn.ChengZhiYa.WhitelistBungeeCore.main
+description: BC版白名单
